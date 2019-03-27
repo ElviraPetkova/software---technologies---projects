@@ -1,1 +1,4 @@
-# software-technologies-projects
+# Software-technologies-projects
+
+ - SoftUni Blog
+ - Phonebook - simple project
