@@ -13636,11 +13636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Phonebook\\Phonebook.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\repoSoftTech\\software-technologies-projects\\SimplePhonebook\\Phonebook\\Phonebook.csproj",
       "projectName": "Phonebook",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Phonebook\\Phonebook.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\repoSoftTech\\software-technologies-projects\\SimplePhonebook\\Phonebook\\Phonebook.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Phonebook\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\repoSoftTech\\software-technologies-projects\\SimplePhonebook\\Phonebook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
