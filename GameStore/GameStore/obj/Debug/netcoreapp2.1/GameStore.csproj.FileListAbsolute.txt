@@ -1,0 +1,60 @@
+C:\Users\Galin\Desktop\Game-Store\GameStore\bin\Debug\netcoreapp2.1\GameStore.deps.json
+C:\Users\Galin\Desktop\Game-Store\GameStore\bin\Debug\netcoreapp2.1\GameStore.runtimeconfig.json
+C:\Users\Galin\Desktop\Game-Store\GameStore\bin\Debug\netcoreapp2.1\GameStore.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\Game-Store\GameStore\bin\Debug\netcoreapp2.1\GameStore.dll
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorAssemblyInfo.cache
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorAssemblyInfo.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.AssemblyInfo.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.TagHelpers.input.cache
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.TagHelpers.output.cache
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorCoreGenerate.cache
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorTargetAssemblyInfo.cache
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorTargetAssemblyInfo.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\bin\Debug\netcoreapp2.1\GameStore.pdb
+C:\Users\Galin\Desktop\Game-Store\GameStore\bin\Debug\netcoreapp2.1\GameStore.Views.dll
+C:\Users\Galin\Desktop\Game-Store\GameStore\bin\Debug\netcoreapp2.1\GameStore.Views.pdb
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.Views.pdb
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.dll
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.pdb
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.csproj.CopyComplete
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Game\Index.g.cshtml.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\bin\Debug\netcoreapp2.1\wwwroot\css\6wtLSQg.jpg
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Game\Create.g.cshtml.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Game\Edit.g.cshtml.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Game\Delete.g.cshtml.cs
+C:\Users\Galin\Desktop\Game-Store\GameStore\obj\Debug\netcoreapp2.1\GameStore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.dll
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.pdb
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Game\Create.g.cshtml.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Game\Delete.g.cshtml.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Game\Edit.g.cshtml.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Game\Index.g.cshtml.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\bin\Debug\netcoreapp2.1\wwwroot\css\6wtLSQg.jpg
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\bin\Debug\netcoreapp2.1\GameStore.deps.json
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\bin\Debug\netcoreapp2.1\GameStore.runtimeconfig.json
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\bin\Debug\netcoreapp2.1\GameStore.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\bin\Debug\netcoreapp2.1\GameStore.dll
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\bin\Debug\netcoreapp2.1\GameStore.pdb
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\bin\Debug\netcoreapp2.1\GameStore.Views.dll
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\bin\Debug\netcoreapp2.1\GameStore.Views.pdb
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.Views.pdb
+C:\Users\Admin\Desktop\Нова папка (2)\GameStore\obj\Debug\netcoreapp2.1\GameStore.csproj.CopyComplete
