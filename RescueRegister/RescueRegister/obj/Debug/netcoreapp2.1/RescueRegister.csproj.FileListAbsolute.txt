@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.AssemblyInfo.cs
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.deps.json
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.runtimeconfig.json
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.dll
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\bin\Debug\netcoreapp2.1\RescueRegister.pdb
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.dll
+C:\Users\Admin\Desktop\RescueRegister\RescueRegister\obj\Debug\netcoreapp2.1\RescueRegister.pdb
